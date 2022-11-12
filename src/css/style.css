@@ -193,7 +193,7 @@
     color: black;
     width: 200px;
     text-align: center;
-    padding-left: 10px; 
+    padding-left: 204px; 
   }
 
   .background{
@@ -208,10 +208,8 @@
     display: flex;
     margin: auto;
   }
-
-  #donutsMade, #autoClicker, #priceForAuto, #clickMultiplier, #priceForMultiplier {
-  padding-right: 18px;
-  padding-left: 8px;
+  #priceForAuto, #priceForMultiplier {
+    text-align: center;
   }
 
   .resetButton {
