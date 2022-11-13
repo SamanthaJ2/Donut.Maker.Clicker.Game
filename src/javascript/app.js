@@ -44,7 +44,7 @@
   });
 
 
-  function updateDonutCount(){
+ function updateDonutCount(){
     currentDonuts.innerText ="Donuts: " + myDonut.getDonutCount();
     currentAutoClickers.innerText ="Donut Auto Clickers Owned: " + myDonut.getAutoClickerCount();
     currentAutoClickersPrice.innerText = "Price: " + myDonut.priceForAuto + " donuts";
